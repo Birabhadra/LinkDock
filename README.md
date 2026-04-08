@@ -279,3 +279,4 @@ Inspired by modern backend API best practices.
 <sub>Last Updated: April 6, 2026</sub>
 
 </div>
+<!-- https://roadmap.sh/projects/url-shortening-service -->
